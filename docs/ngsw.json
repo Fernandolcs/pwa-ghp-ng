@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1612048111026,
-  "index": "https://fernandolcs.github.io/pwa-ghp-ng/index.html",
+  "timestamp": 1612106869588,
+  "index": "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://fernandolcs.github.io/pwa-ghp-ng/favicon.ico",
-        "https://fernandolcs.github.io/pwa-ghp-ng/index.html",
-        "https://fernandolcs.github.io/pwa-ghp-ng/main.94ce0d02b14c6fbc26ee.js",
-        "https://fernandolcs.github.io/pwa-ghp-ng/manifest.webmanifest",
-        "https://fernandolcs.github.io/pwa-ghp-ng/polyfills.6abdde2583a2e01a2350.js",
-        "https://fernandolcs.github.io/pwa-ghp-ng/runtime.7b63b9fd40098a2e8207.js",
-        "https://fernandolcs.github.io/pwa-ghp-ng/styles.73204bf7f1a550bfa102.css"
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/main.94ce0d02b14c6fbc26ee.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/styles.73204bf7f1a550bfa102.css"
       ],
       "patterns": []
     },
@@ -29,43 +29,43 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
-        "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
-        "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
-        "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-128x128.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-144x144.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-152x152.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-192x192.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-384x384.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-512x512.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-72x72.png",
-        "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-96x96.png"
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-128x128.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-144x144.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-152x152.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-192x192.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-384x384.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-512x512.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-72x72.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
-    "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
-    "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
-    "https://fernandolcs.github.io/pwa-ghp-ng/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://fernandolcs.github.io/pwa-ghp-ng/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://fernandolcs.github.io/pwa-ghp-ng/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://fernandolcs.github.io/pwa-ghp-ng/index.html": "660a232d2e2c3de2bf8c7e42e989c0254e4af5cd",
-    "https://fernandolcs.github.io/pwa-ghp-ng/main.94ce0d02b14c6fbc26ee.js": "50c2d61833028d66adcddeebfab2baefbf006cd6",
-    "https://fernandolcs.github.io/pwa-ghp-ng/manifest.webmanifest": "97e80322854523003ebc397d614d386a02e391c5",
-    "https://fernandolcs.github.io/pwa-ghp-ng/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
-    "https://fernandolcs.github.io/pwa-ghp-ng/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://fernandolcs.github.io/pwa-ghp-ng/styles.73204bf7f1a550bfa102.css": "4a67ae0f0c84c92cc8f416c37a0df40349b3c240"
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html": "b8213a63acf6711665d9829446e1d663fa82243d",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/main.94ce0d02b14c6fbc26ee.js": "50c2d61833028d66adcddeebfab2baefbf006cd6",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest": "a54a3cb124a08015a9e096fca45b593c72717569",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/styles.73204bf7f1a550bfa102.css": "4a67ae0f0c84c92cc8f416c37a0df40349b3c240"
   },
   "navigationUrls": [
     {
