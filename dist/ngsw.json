@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1612126536289,
+  "index": "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/main.62a165e844447b8a87f0.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/styles.8f28422293f4fd5dc5ac.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-128x128.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-144x144.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-152x152.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-192x192.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-384x384.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-512x512.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-72x72.png",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-128x128.png": "19b9a2896e67c67b00dbf65db7cd0cf0edc12879",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-144x144.png": "c383cc53f55b04f1cd6fcbdf054e78f78426d265",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-152x152.png": "8a50b8b7520a460a68d599e5bd9fcbeb5b7142c9",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-192x192.png": "d7fda475967a7bdb4a6d613193b2c9746d3182f6",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-384x384.png": "c9543ad7a1bd15b34c9f4ce0bf5c52aa709c334c",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-512x512.png": "5428ca7e0eef14892398b9f9a73e0ed78595afdc",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-72x72.png": "3484bb2388e757ba53a912283e4821f9e13baa4c",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-96x96.png": "330ae4b2ad379f2612baa61d01eae9552cfb9103",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html": "19fe82bca45c07b0e057fa2724ab3f871b5ca6b7",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/main.62a165e844447b8a87f0.js": "f965c7d84eefcb91e640c4f005aa225e441e8194",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest": "a54a3cb124a08015a9e096fca45b593c72717569",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/styles.8f28422293f4fd5dc5ac.css": "1d53884c29058efc69abafca36ce2d04e7bdbd2b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
