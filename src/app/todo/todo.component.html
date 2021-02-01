@@ -1,10 +1,12 @@
 <div class="content" fxLayout="column">
     <div fxLayout="row" fxLayoutAlign="start center">
-      <mat-form-field>
-        <input matInput placeholder="Descrição da atividade" value="Sushi" [(ngModel)]="todo.desc">
-      </mat-form-field>
-      <span fxFlex></span>
-      <button mat-button (click)="save(todo)">Salvar</button>
+      <form (submit)="save(todo)">
+            <mat-form-field>
+                <input matInput placeholder="Descrição da atividade" value="Sushi" [(ngModel)]="todo.desc" [ngModelOptions]="{standalone: true}">
+            </mat-form-field>
+            <span fxFlex></span>
+            <button mat-button type="submit">Salvar</button>
+      </form>
     </div>
     <div fxFlex>
       <mat-list>
