@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612126596764,
+  "timestamp": 1612218597173,
   "index": "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico",
         "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html",
-        "https://lemon-stone-03688fd0f.azurestaticapps.net/main.62a165e844447b8a87f0.js",
+        "https://lemon-stone-03688fd0f.azurestaticapps.net/main.4b26799db80b2f965230.js",
         "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest",
         "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js",
         "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js",
@@ -60,8 +60,8 @@
     "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-72x72.png": "3484bb2388e757ba53a912283e4821f9e13baa4c",
     "https://lemon-stone-03688fd0f.azurestaticapps.net/assets/icons/icon-96x96.png": "330ae4b2ad379f2612baa61d01eae9552cfb9103",
     "https://lemon-stone-03688fd0f.azurestaticapps.net/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html": "19fe82bca45c07b0e057fa2724ab3f871b5ca6b7",
-    "https://lemon-stone-03688fd0f.azurestaticapps.net/main.62a165e844447b8a87f0.js": "f965c7d84eefcb91e640c4f005aa225e441e8194",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/index.html": "75325d6d9ad2d934b386aec42dd2286d6c5d73f5",
+    "https://lemon-stone-03688fd0f.azurestaticapps.net/main.4b26799db80b2f965230.js": "f7ba2455676e5972c8ad4822719eea4d64f4981c",
     "https://lemon-stone-03688fd0f.azurestaticapps.net/manifest.webmanifest": "a54a3cb124a08015a9e096fca45b593c72717569",
     "https://lemon-stone-03688fd0f.azurestaticapps.net/polyfills.6abdde2583a2e01a2350.js": "f888b31e000d9b05c8c3fef19c325d813f2b7e1b",
     "https://lemon-stone-03688fd0f.azurestaticapps.net/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
