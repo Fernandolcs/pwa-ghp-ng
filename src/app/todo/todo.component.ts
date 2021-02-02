@@ -1,25 +1,34 @@
 import { Component, OnInit } from '@angular/core';
-export class Todo {
-  desc: string;
-}
+import { TagService } from '../services/tag.service';
+import { Tag } from '../models/tag.model';
+
 @Component({
   selector: 'app-todo',
   templateUrl: './todo.component.html',
   styleUrls: ['./todo.component.css']
 })
 export class TodoComponent implements OnInit {
-  todo: Todo = new Todo();
-  todos: Todo[] = [];
+  tag: Tag = new Tag();
+  tags: Tag[] = [];
   
-  constructor() { }
+  constructor(private tagService: TagService) { }
+
   ngOnInit() {
+      this.tagService.getAll().subscribe(tags => {
+        console.log(tags);
+        this.tags = tags;    
+      })
   }
-  save(todo: Todo) {
-    this.todos.push(todo);
-    this.todo = new Todo();
-    this.todos = Object.assign([], this.todos);
+
+  save(tag: Tag) {
+    this.tagService.insert(tag).subscribe(() => {
+        this.tags.push(tag);
+        this.tag = new Tag();
+        this.tags = Object.assign([], this.tags);
+    });
   }
-  delete(todo: Todo) {
-    this.todos.splice(this.todos.indexOf(todo), 1);
+
+  delete(tag: Tag) {
+    this.tags.splice(this.tags.indexOf(tag), 1);
   }
 }

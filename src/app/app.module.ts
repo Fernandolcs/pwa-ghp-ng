@@ -15,6 +15,8 @@ import { AppMaterialModule } from './app-material/app-material.module';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { AuthGuard } from './guard/auth.guard';
+import { HttpClientModule } from '@angular/common/http';
+import { TagService } from './services/tag.service';
 
 const appRoutes: Routes = [
     { path: '', component: HomeComponent, canActivate: [AuthGuard] },
@@ -41,8 +43,10 @@ const appRoutes: Routes = [
     RouterModule.forRoot(appRoutes, {enableTracing: true}),
     // My Modules
     AppMaterialModule,
+    // Services
+    HttpClientModule,
   ],
-  providers: [AuthGuard],
+  providers: [AuthGuard, TagService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

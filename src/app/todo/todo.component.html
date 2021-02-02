@@ -1,8 +1,8 @@
 <div class="content" fxLayout="column">
     <div fxLayout="row" fxLayoutAlign="start center">
-      <form (submit)="save(todo)">
+      <form (submit)="save(tag)">
             <mat-form-field>
-                <input matInput placeholder="Descrição da atividade" value="Sushi" [(ngModel)]="todo.desc" [ngModelOptions]="{standalone: true}">
+                <input matInput placeholder="Descrição da tag" value="Sushi" [(ngModel)]="tag.nome" [ngModelOptions]="{standalone: true}">
             </mat-form-field>
             <span fxFlex></span>
             <button mat-button type="submit">Salvar</button>
@@ -10,10 +10,10 @@
     </div>
     <div fxFlex>
       <mat-list>
-        <h3 mat-subheader>Atividades</h3>
-        <mat-list-item *ngFor="let todo of todos">
-          <h4 mat-line>{{todo.desc}}</h4>
-          <button mat-icon-button (click)="delete(todo)">
+        <h3 mat-subheader>Tags</h3>
+        <mat-list-item *ngFor="let tag of tags">
+          <h4 mat-line>{{tag.nome}}</h4>
+          <button mat-icon-button (click)="delete(tag)">
             <mat-icon>delete</mat-icon>
           </button>
         </mat-list-item>
